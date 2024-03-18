@@ -1,0 +1,23 @@
+{
+  "name": "vnco",
+  "version": "1.0.1",
+  "description": "This could include features like tagging, searching, and integration with popular code editors.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/teavietnam/vnco.git"
+  },
+  "keywords": [
+    "teathebest",
+    "codebnippet",
+    "mamanger"
+  ],
+  "author": "whalepiz",
+  "license": "MIT",
+  "dependencies": {
+    "bebe-snippet": "1.0.3"
+  }
+}
